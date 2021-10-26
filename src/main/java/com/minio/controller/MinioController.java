@@ -35,6 +35,7 @@ public class MinioController {
     /**
      * 上传文件
      *
+     * @author 黄贵川
      * @param file 上传的文件
      * @return url 上传成功的文件URL
      */
