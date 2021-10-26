@@ -1,0 +1,6 @@
+com\minio\controller\MinioController.class
+com\minio\config\MinioConfig.class
+com\minio\controller\MinioTest01.class
+com\minio\util\MinioUtil.class
+META-INF\spring-configuration-metadata.json
+com\minio\MinioApplication.class

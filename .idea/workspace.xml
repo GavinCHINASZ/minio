@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5d087aa1-6fee-4f93-97e1-937e6ad72548" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/minio/controller/MinioController.java" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/com/minio/util/MinioUtil.java" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="D:\repository" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../apache-maven-3.8.1" />
+        <option name="userSettingsFile" value="D:\apache-maven-3.8.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1yZ7jQUdGaLi6Pxmpf76WFaqRNE" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../getui-push-message/pom.xml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.MinioApplication">
+    <configuration name="MinioTest01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.minio.controller.MinioTest01" />
+      <module name="minio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minio.controller.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MinioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="minio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.minio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.minio.MinioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.MinioApplication" />
+        <item itemvalue="Application.MinioTest01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpringBootOptions">
+    <option name="showAdditionalConfigNotification" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5d087aa1-6fee-4f93-97e1-937e6ad72548" name="Default Changelist" comment="" />
+      <created>1632447390812</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1632447390812</updated>
+      <workItem from="1632447394848" duration="6985000" />
+      <workItem from="1632619329618" duration="1087000" />
+      <workItem from="1632620712625" duration="722000" />
+      <workItem from="1632625841800" duration="23261000" />
+      <workItem from="1632726669524" duration="33869000" />
+      <workItem from="1633656467527" duration="1461000" />
+      <workItem from="1633658282681" duration="1306000" />
+      <workItem from="1633660112213" duration="1208000" />
+      <workItem from="1633674255283" duration="1776000" />
+      <workItem from="1633676068252" duration="175000" />
+      <workItem from="1633676474513" duration="107000" />
+      <workItem from="1633676928052" duration="1774000" />
+      <workItem from="1633678753237" duration="1772000" />
+      <workItem from="1633680797329" duration="2293000" />
+      <workItem from="1633683148017" duration="1748000" />
+      <workItem from="1633685208576" duration="1554000" />
+      <workItem from="1633741390509" duration="1776000" />
+      <workItem from="1633743206079" duration="410000" />
+      <workItem from="1633743702798" duration="1657000" />
+      <workItem from="1633748446978" duration="1373000" />
+      <workItem from="1633922299417" duration="16000" />
+      <workItem from="1633939593721" duration="723000" />
+      <workItem from="1634010279318" duration="692000" />
+      <workItem from="1634031760072" duration="780000" />
+      <workItem from="1634097204306" duration="96000" />
+      <workItem from="1634105995577" duration="22000" />
+      <workItem from="1634106062683" duration="35000" />
+      <workItem from="1634106114893" duration="12000" />
+      <workItem from="1634106285294" duration="3430000" />
+      <workItem from="1634179034592" duration="2462000" />
+      <workItem from="1634192273495" duration="4084000" />
+      <workItem from="1634786685189" duration="3669000" />
+      <workItem from="1634865174352" duration="12133000" />
+      <workItem from="1635124906425" duration="6825000" />
+      <workItem from="1635229503767" duration="1993000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="121" y="0" key="#Project_Structure" timestamp="1632620381044">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="121" y="0" key="#Project_Structure/0.0.1280.689@0.0.1280.689" timestamp="1632620381044" />
+    <state x="321" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1634097219331">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="321" y="80" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1280.689@0.0.1280.689" timestamp="1634097219331" />
+    <state width="454" height="466" key="DebuggerActiveHint" timestamp="1633680422191">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="454" height="466" key="DebuggerActiveHint/0.0.1280.689@0.0.1280.689" timestamp="1633680422191" />
+    <state x="421" y="100" key="FileChooserDialogImpl" timestamp="1635230243152">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="421" y="100" key="FileChooserDialogImpl/0.0.1280.689@0.0.1280.689" timestamp="1635230243152" />
+    <state width="618" height="223" key="GridCell.Tab.0.bottom" timestamp="1634010356516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.0.bottom/0.0.1280.689@0.0.1280.689" timestamp="1634010356516" />
+    <state width="618" height="223" key="GridCell.Tab.0.center" timestamp="1634010356516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.0.center/0.0.1280.689@0.0.1280.689" timestamp="1634010356516" />
+    <state width="618" height="223" key="GridCell.Tab.0.left" timestamp="1634010356516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.0.left/0.0.1280.689@0.0.1280.689" timestamp="1634010356516" />
+    <state width="618" height="223" key="GridCell.Tab.0.right" timestamp="1634010356516">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.0.right/0.0.1280.689@0.0.1280.689" timestamp="1634010356516" />
+    <state width="1237" height="223" key="GridCell.Tab.1.bottom" timestamp="1634010361673">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.bottom/0.0.1280.689@0.0.1280.689" timestamp="1634010361673" />
+    <state width="1237" height="223" key="GridCell.Tab.1.center" timestamp="1634010361673">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.center/0.0.1280.689@0.0.1280.689" timestamp="1634010361673" />
+    <state width="1237" height="223" key="GridCell.Tab.1.left" timestamp="1634010361673">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.left/0.0.1280.689@0.0.1280.689" timestamp="1634010361673" />
+    <state width="1237" height="223" key="GridCell.Tab.1.right" timestamp="1634010361673">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="1237" height="223" key="GridCell.Tab.1.right/0.0.1280.689@0.0.1280.689" timestamp="1634010361673" />
+    <state width="618" height="223" key="GridCell.Tab.2.bottom" timestamp="1634010356517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.2.bottom/0.0.1280.689@0.0.1280.689" timestamp="1634010356517" />
+    <state width="618" height="223" key="GridCell.Tab.2.center" timestamp="1634010356517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.2.center/0.0.1280.689@0.0.1280.689" timestamp="1634010356517" />
+    <state width="618" height="223" key="GridCell.Tab.2.left" timestamp="1634010356517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.2.left/0.0.1280.689@0.0.1280.689" timestamp="1634010356517" />
+    <state width="618" height="223" key="GridCell.Tab.2.right" timestamp="1634010356517">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state width="618" height="223" key="GridCell.Tab.2.right/0.0.1280.689@0.0.1280.689" timestamp="1634010356517" />
+    <state x="142" y="0" key="SettingsEditor" timestamp="1635231512283">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.689@0.0.1280.689" timestamp="1635231512283" />
+    <state x="93" y="93" width="1095" height="504" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1632970186710">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="93" y="93" width="1095" height="504" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1280.689@0.0.1280.689" timestamp="1632970186710" />
+    <state x="184" y="90" width="605" height="536" key="find.popup" timestamp="1634796421147">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="184" y="90" width="605" height="536" key="find.popup/0.0.1280.689@0.0.1280.689" timestamp="1634796421147" />
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup" timestamp="1632643514957">
+      <screen x="0" y="0" width="1280" height="689" />
+    </state>
+    <state x="303" y="10" width="672" height="678" key="search.everywhere.popup/0.0.1280.689@0.0.1280.689" timestamp="1632643514957" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/minio/controller/MinioController.java</url>
+          <line>164</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
