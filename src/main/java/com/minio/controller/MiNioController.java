@@ -24,8 +24,8 @@ import java.util.UUID;
 
 @Slf4j
 @RestController
-public class MinioController {
-    private final static Logger logger = LoggerFactory.getLogger(MinioController.class);
+public class MiNioController {
+    private final static Logger logger = LoggerFactory.getLogger(MiNioController.class);
 
     @Autowired
     private MinioUtil minioUtil;

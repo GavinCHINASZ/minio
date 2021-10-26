@@ -16,7 +16,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @Component
-public class MinioUtil {
+public class MiNioUtil {
     @Autowired
     private MinioClient minioClient;
     private static final int DEFAULT_EXPIRY_TIME = 7 * 24 * 3600;
