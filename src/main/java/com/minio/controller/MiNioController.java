@@ -1,6 +1,6 @@
 package com.minio.controller;
 
-import com.minio.util.MinioUtil;
+import com.minio.util.MiNioUtil;
 import lombok.extern.slf4j.Slf4j;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -28,7 +28,7 @@ public class MiNioController {
     private final static Logger logger = LoggerFactory.getLogger(MiNioController.class);
 
     @Autowired
-    private MinioUtil minioUtil;
+    private MiNioUtil minioUtil;
 
     private static SimpleDateFormat sdf = new SimpleDateFormat("yyyyMMdd");
 
