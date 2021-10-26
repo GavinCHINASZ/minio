@@ -35,7 +35,7 @@ public class MinioController {
     /**
      * 上传文件
      *
-     * @param file 上传的文件 
+     * @param file 上传的文件
      * @return url 上传成功的文件URL
      */
     @PostMapping("/upload")
@@ -71,7 +71,7 @@ public class MinioController {
     /**
      * 下载文件
      *
-     * @param fileName  文件绝对路径
+     * @param fileName 文件绝对路径
      * @param response HttpServletResponse
      */
     @GetMapping("downloadFile")
@@ -85,7 +85,7 @@ public class MinioController {
 
             // 获取文件对象
             InputStream object = minioUtil.getObject(bucketName, bucketNames + "/" + objectName);
-            if (object != null){
+            if (object != null) {
                 byte buf[] = new byte[1024];
                 int length = 0;
                 response.reset();
@@ -94,7 +94,7 @@ public class MinioController {
 
                 String suffixName = fileName.substring(fileName.lastIndexOf(".")).toLowerCase();
                 boolean imageBollean = ".png".equals(suffixName);
-                if (!imageBollean){
+                if (!imageBollean) {
                     response.setContentType("application/octet-stream");
                     response.setCharacterEncoding("UTF-8");
                 }
@@ -123,7 +123,7 @@ public class MinioController {
     /**
      * 删除文件
      *
-     * @param fileUrl  文件绝对路径
+     * @param fileUrl 文件绝对路径
      * @return String
      */
     @RequestMapping("removeObject")
@@ -193,7 +193,7 @@ public class MinioController {
 
                     //return minioUtil.getObjectUrl(bucketName, objectName);
                 }
-            }catch (Exception e){
+            } catch (Exception e) {
                 System.out.println("updateCustomer异常" + e);
             }
         }
@@ -202,7 +202,7 @@ public class MinioController {
         return "updateCustomer成功";
     }
 
-    public static byte[] readinputstream(InputStream instream) throws Exception{
+    public static byte[] readinputstream(InputStream instream) throws Exception {
         ByteArrayOutputStream outstream = new ByteArrayOutputStream();
 
         //创建一个buffer字符串
@@ -210,7 +210,7 @@ public class MinioController {
         //每次读取的字符串长度，如果为-1，代表全部读取完毕
         int len = 0;
         //使用一个输入流从buffer里把数据读取出来
-        while( (len = instream.read(buffer)) != -1 ){
+        while ((len = instream.read(buffer)) != -1) {
             //用输出流往buffer里写入数据，中间参数代表从哪个位置开始读，len代表读取的长度
             outstream.write(buffer, 0, len);
         }
