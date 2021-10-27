@@ -21,7 +21,7 @@ public class MiNioConfig {
     private String secretKey;
 
     @Bean
-    public MinioClient getMinioClient() throws Exception {
+    public MinioClient getMiNioClient() throws Exception {
         MinioClient minioClient = new MinioClient(endpoint, accessKey, secretKey);
         return minioClient;
     }
